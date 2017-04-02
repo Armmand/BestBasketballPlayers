@@ -1,0 +1,35 @@
+body {
+  background-image: url("../images/1579644.jpg");
+  background-size: 1800px;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+ 
+#clear {
+    margin-left: 20px;
+    font-size: 20px;
+    color: black;
+    border-style: solid;
+    width: 100px;
+}
+
+button {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-right: 0px;
+    margin-left: 100px;
+    background-color: red;
+    border: none;
+    color: black;
+    padding: 10px 22px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+
