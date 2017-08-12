@@ -1,7 +1,9 @@
 body {
   background-image: url("../images/1579644.jpg");
-  background-size: 1800px;
+  background-size: 100%;
   color: white;
+  background-repeat: no-repeat;
+
 }
 
 h1 {
@@ -23,12 +25,13 @@ button {
     margin-bottom: 90px;
     margin-right: 0px;
     margin-left: 100px;
-    background-color: red;
+    background-color: gold;
     border: none;
     color: black;
-    padding: 10px 22px;
+    padding: 6px 6px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
+    border-radius: 30%;
 }
 
 
